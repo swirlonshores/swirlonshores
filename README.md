@@ -6,7 +6,7 @@ I am a cybersecurity student graduating in May 2027 with hands-on experience in 
 
 ## Objective
 
-I graduate in May 2027 with a cybersecurity degree, bringing a profound interest in technology and a dedication to solving complex problems.
+I am pursuing a cybersecurity degree, bringing a profound interest in technology and a dedication to solving complex problems.
 
 ## Skills
 
