@@ -1,13 +1,13 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Jarrett Hurrd
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+I am a cybersecurity student graduating in May 2027 with hands-on experience in technical support, Linux administration, and network configuration, driven by a dedication to solving complex problems.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I graduate in May 2027 with a cybersecurity degree, bringing a profound interest in technology and a dedication to solving complex problems.
 
 ## Skills
 
@@ -20,8 +20,26 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Penetration Testing & Ethical Hacking Methodologies | [TryHackMe Security Writeups](https://github.com/swirlonshores/YOUR-REPO-NAME) |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Systems & Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_11-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+</div>
+
+### Security & Networking
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</div>
+
+### CRM & Support
+<div>
+    <img src="https://img.shields.io/badge/-Salesforce-00A1E0?&style=for-the-badge&logo=Salesforce&logoColor=white" />
+</div>
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
