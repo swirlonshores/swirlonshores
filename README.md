@@ -1,6 +1,6 @@
 # Hello, I'm Jarrett Hurd <a href="https://www.linkedin.com/in/jarrett-hurd-bb4971311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity student with hands-on experience in technical support, Linux administration, and network configuration, driven by a dedication to solving complex problems.
+IT support candidate with hands-on experience in technical support, Linux administration, and network configuration, driven by a dedication to solving complex problems.
 
 ## Objective
 
@@ -51,15 +51,4 @@ I am transitioning into an IT support role, bringing hands-on experience in tech
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-<div>
-    <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
-
-## Projects
-- [Active Directory Home Lab](https://github.com/swirlonshores/active-directory-home-lab)
+    <img src="
