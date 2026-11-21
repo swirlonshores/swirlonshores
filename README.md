@@ -4,7 +4,7 @@ I am a cybersecurity student with hands-on experience in technical support, Linu
 
 ## Objective
 
-I am pursuing a cybersecurity degree, bringing a profound interest in technology and a dedication to solving complex problems.
+I am transitioning into an IT support role, bringing hands-on experience in technical support, Linux administration, and network configuration with a dedication to solving complex problems.
 
 ## Skills
 
@@ -35,6 +35,7 @@ I am pursuing a cybersecurity degree, bringing a profound interest in technology
 <div>
     <img src="https://img.shields.io/badge/-Salesforce-00A1E0?&style=for-the-badge&logo=Salesforce&logoColor=white" />
 </div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -52,4 +53,13 @@ I am pursuing a cybersecurity degree, bringing a profound interest in technology
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+    <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Projects
+- [Active Directory Home Lab](https://github.com/swirlonshores/active-directory-home-lab)
