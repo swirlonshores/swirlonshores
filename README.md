@@ -1,6 +1,6 @@
 # Hello, I'm Jarrett Hurd <a href="https://www.linkedin.com/in/jarrett-hurd-bb4971311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-"IT support candidate with hands-on experience in technical support, Linux administration, and network configuration, driven by a dedication to solving complex problems.
+IT support candidate with hands-on experience in technical support, Linux administration, and network configuration, driven by a dedication to solving complex problems.
 
 ## Objective
 
