@@ -1,8 +1,6 @@
 # Hello, I'm Jarrett Hurd <a href="https://www.linkedin.com/in/jarrett-hurd-bb4971311/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-
-I am a cybersecurity student graduating in May 2027 with hands-on experience in technical support, Linux administration, and network configuration, driven by a dedication to solving complex problems.
+I am a cybersecurity student with hands-on experience in technical support, Linux administration, and network configuration, driven by a dedication to solving complex problems.
 
 ## Objective
 
@@ -12,11 +10,9 @@ I am pursuing a cybersecurity degree, bringing a profound interest in technology
 
 | Skill | Associated Project |
 | :--- | :--- |
-| Linux Server Hardening & UFW Firewall Architecture | [Linux Security Compliance Capstone](https://github.com/swirlonshores/YOUR-REPO-NAME) |
-| Bash Scripting & Automated Compliance Auditing | [Linux Security Compliance Capstone](https://github.com/swirlonshores/YOUR-REPO-NAME) |
-| DNS Configuration & Network Troubleshooting (BIND9 / TCP/IP) | [Network Infrastructure Lab](https://github.com/swirlonshores/YOUR-REPO-NAME) |
-| SIEM Log Analysis & Event Monitoring (Splunk) | [Splunk Log Analysis](https://github.com/swirlonshores/YOUR-REPO-NAME) |
-| Penetration Testing & Ethical Hacking Methodologies | [TryHackMe Security Writeups](https://github.com/swirlonshores/YOUR-REPO-NAME) |
+| Windows Server & Active Directory Administration | [Active Directory Home Lab](https://github.com/swirlonshores/active-directory-home-lab) |
+| Linux Server Hardening & UFW Firewall Architecture | [Active Directory Home Lab](https://github.com/swirlonshores/active-directory-home-lab) |
+| Bash Scripting & Automated Compliance Auditing | [Active Directory Home Lab](https://github.com/swirlonshores/active-directory-home-lab) |
 
 ## Tools
 
@@ -56,14 +52,4 @@ I am pursuing a cybersecurity degree, bringing a profound interest in technology
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-<div>
-    <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+    <img src="
